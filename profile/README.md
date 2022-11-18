@@ -2,11 +2,15 @@
 
 ## Hi there 👋
 
-VEPRM Labs is an R&D initiative of VEPRM to develop digital solutions that are targeted to solve the customer pain points in the heavy industry and manufacturing sector and to create the digital footprint for future innovations.
+VEPRM Labs is an R&D initiative of VEPRM Our aim to create the digital footprint for future innovations.
 
 🌈 Contribution guidelines - how can the community get involved?
 
+## Watch this space
+
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
+## Watch this space
 
 <!--
 
